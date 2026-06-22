@@ -1,4 +1,10 @@
-# 💫 About Me:
+<!-- <h1 align="center">
+  <img src="https://raw.githubusercontent.com/martonlederer/martonlederer/master/name.svg" alt="Ritul Patel" />
+</h1> -->
+
+## Hey! 👋
+I'm Ritul, a 20-year-old Computer Engineering student at DA-IICT.
+
 • 🧠 Problem Solver | DSA Enthusiast<br><br>• 💻 Building full-stack projects with React and Next.js<br><br>• 🌱 Learning C/C++, Node.js, and Python<br><br>• 🤝 Open to open-source and AI collaborations<br><br>• ♟️ Chess • 🎬 Movies • 💪 Gym<br><br>• ⚡ Learning by building, one project at a time<br>
 
 
@@ -12,7 +18,3 @@
 ![](https://streak-stats.demolab.com/?user=ritul-patel&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=ritul-patel&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
----
-[![](https://komarev.com/ghpvc/?username=ritul-patel&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
